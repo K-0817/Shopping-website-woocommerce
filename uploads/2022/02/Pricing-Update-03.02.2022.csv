@@ -1,0 +1,295 @@
+﻿ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Description,Date sale price starts,Date sale price ends,Tax status,Tax class,In stock?,Stock,Low stock amount,Backorders allowed?,Sold individually?,Weight (kg),Length (cm),Width (cm),Height (cm),Allow customer reviews?,Purchase note,Sale price,Regular price,Categories,Tags,Shipping class,Images,Download limit,Download expiry days,Parent,Grouped products,Upsells,Cross-sells,External URL,Button text,Position,Attribute 1 name,Attribute 1 value(s),Attribute 1 visible,Attribute 1 global
+3189,variable,5022568797,Festive Brown - 400g,1,0,visible,Festive Brown - 400g,Festive Brown - 400g,,,taxable,,1,5,,0,0,,,,,0,,,,Bread &amp; Cereals,,,https://kapuafrica.com/wp-content/uploads/2022/01/festive-brown.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3190,variable,3210825758,Festive Brown - 600g,1,0,hidden,Festive Brown - 600g,Festive Brown - 600g,,,taxable,,1,6,,0,0,,,,,0,,,,Bread &amp; Cereals,,,https://kapuafrica.com/wp-content/uploads/2021/11/festive-brown-bread.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3191,variable,8227628630,Festive White - 400g,1,0,visible,Festive White - 400g,Festive White - 400g,,,taxable,,1,16,,0,0,,,,,0,,,,Bread &amp; Cereals,,,https://kapuafrica.com/wp-content/uploads/2022/01/Festive-White-400g.png,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3192,variable,3806867649,Festive White - 600g,1,0,hidden,Festive White - 600g,Festive White - 600g,,,taxable,,1,3,,0,0,,,,,0,,,,Bread &amp; Cereals,,,https://kapuafrica.com/wp-content/uploads/2021/11/festive-white-bread.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3193,variable,1181100148,Arimis Milking Jelly - 200g,1,0,visible,Arimis Milking Jelly - 200g,Arimis Milking Jelly - 200g,,,taxable,,1,42,,0,0,,,,,0,,,,Beauty,,,https://kapuafrica.com/wp-content/uploads/2021/11/ArimisMilkingJelly200g_1024x1024.png,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3194,variable,1749308189,Arimis Milking Jelly - 50g,1,0,visible,Arimis Milking Jelly - 50g,Arimis Milking Jelly - 50g,,,taxable,,1,314,,0,0,,,,,0,,,,Beauty,,,https://kapuafrica.com/wp-content/uploads/2021/11/ArimisMilkingJelly200g_1024x1024.png,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3195,variable,9604696117,Blue Band Original - 100G,1,0,visible,Blue Band Original - 100G,Blue Band Original - 100G,,,taxable,,1,21,,0,0,,,,,0,,,,Cooking Ingredient,,,https://kapuafrica.com/wp-content/uploads/2022/01/Blueband-250g.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3196,variable,9673768233,Blue Band Original - 250G,1,0,visible,Blue Band Original - 250G,Blue Band Original - 250G,,,taxable,,1,28,,0,0,,,,,0,,,,Cooking Ingredient,,,https://kapuafrica.com/wp-content/uploads/2022/01/BlueBand-500g.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3197,variable,86722522,Blue Band Original - 500G,1,0,visible,Blue Band Original - 500G,Blue Band Original - 500G,,,taxable,,1,15,,0,0,,,,,0,,,,Cooking Ingredient,,,https://kapuafrica.com/wp-content/uploads/2022/01/BlueBand-500g.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3198,variable,2966612175,Chapa Mandashi - 100g,1,0,visible,Chapa Mandashi - 100g,Chapa Mandashi - 100g,,,taxable,,1,336,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/01/Chapa-Mandashi.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3199,variable,6604733167,Colgate Herbal - 35G,1,0,visible,Colgate Herbal - 35G,Colgate Herbal - 35G,,,taxable,,1,37,,0,0,,,,,0,,,,Beauty,,,https://kapuafrica.com/wp-content/uploads/2022/01/Colgate-Herbal-1.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3200,variable,5368535563,Fahari Ya Kenya Tea - 100g,1,0,visible,Fahari Ya Kenya Tea - 100g,Fahari Ya Kenya Tea - 100g,,,taxable,,1,117,,0,0,,,,,0,,,,"Tea\, Coffee &amp; Hot Chocolate",,,https://kapuafrica.com/wp-content/uploads/2021/11/FahariYaKenya_a4346ed4-6e01-4db4-86ee-5638a376a8cc_1024x1024.png,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3201,variable,3645210080,Geisha Milk & Honey Soap - 225G,1,0,visible,Geisha Milk &amp; Honey Soap - 225G,Geisha Milk &amp; Honey Soap - 225G,,,taxable,,0,0,,0,0,,,,,0,,,,Beauty,,,https://kapuafrica.com/wp-content/uploads/2022/01/Geisha-milk-and-honey.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3202,variable,4885602117,Indomie Beef - 120g,1,0,visible,Indomie Beef - 120g,Indomie Beef - 120g,,,taxable,,1,150,,0,0,,,,,0,,,,Pasta &amp; Noodles,,,https://kapuafrica.com/wp-content/uploads/2021/11/Indomie-Beef-Jumbo-Noodle-120g.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3203,variable,7646909809,Indomie Chicken - 120g,1,0,visible,Indomie Chicken - 120g,Indomie Chicken - 120g,,,taxable,,1,265,,0,0,,,,,0,,,,Pasta &amp; Noodles,,,https://kapuafrica.com/wp-content/uploads/2021/11/Indomie-Chicken-Noodles-120g.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3204,variable,6518583240,Kensalt - 1Kg,1,0,visible,Kensalt - 1Kg,Kensalt - 1Kg,,,taxable,,1,94,,0,0,,,,,0,,,,Cooking Ingredient,,,https://kapuafrica.com/wp-content/uploads/2021/11/KENSALT-1KG-1.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3205,variable,3306580224,Kensalt - 200G,1,0,visible,Kensalt - 200G,Kensalt - 200G,,,taxable,,1,155,,0,0,,,,,0,,,,Cooking Ingredient,,,https://kapuafrica.com/wp-content/uploads/2022/01/Kensalt-200g.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3206,variable,4130357482,Kensalt - 500G,1,0,visible,Kensalt - 500G,Kensalt - 500G,,,taxable,,1,136,,0,0,,,,,0,,,,Cooking Ingredient,,,https://kapuafrica.com/wp-content/uploads/2021/11/Kensalt-500g.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3207,variable,375340437,Mchuzi Mix Beef Kora - 10g,1,0,visible,Mchuzi Mix Beef Kora - 10g,Mchuzi Mix Beef Kora - 10g,,,taxable,,1,42,,0,0,,,,,0,,,,Beauty,,,https://kapuafrica.com/wp-content/uploads/2021/11/mchuzi-mix-beef-kora.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3208,variable,4103880190,Ngarisha Steel Wool -15Gms,1,0,visible,Ngarisha Steel Wool -15Gms,Ngarisha Steel Wool -15Gms,,,taxable,,1,55,,0,0,,,,,0,,,,Cooking Ingredient,,,https://kapuafrica.com/wp-content/uploads/2022/01/Ngarisha-75g.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3209,variable,7794987563,Rhino Ndogo Match Box - 10 S,1,0,visible,Rhino Ndogo Match Box - 10 S,Rhino Ndogo Match Box - 10 S,,,taxable,,1,95,,0,0,,,,,0,,,,Household Supply,,,https://kapuafrica.com/wp-content/uploads/2022/01/Rhino-Kubwa-Matches.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3210,variable,3819626227,Royco - Bouillon Beef Cube 4g x 3 Pieces,1,0,hidden,Royco - Bouillon Beef Cube 4g x 3 Pieces,Royco - Bouillon Beef Cube 4g x 3 Pieces,,,taxable,,1,0,,0,0,,,,,0,,,,Cooking Ingredient,,,https://kapuafrica.com/wp-content/uploads/2022/01/Royco-Cube-X-3.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3211,variable,9400515460,Softcare Gold Diaper Maxi L-8,1,0,visible,Softcare Gold Diaper Maxi L-8,Softcare Gold Diaper Maxi L-8,,,taxable,,1,63,,0,0,,,,,0,,,,Household Cleaners,,,https://kapuafrica.com/wp-content/uploads/2022/01/Softcare-Diapers-Large.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3212,variable,2685380480,Softcare Gold Diaper Maxi M-8,1,0,visible,Softcare Gold Diaper Maxi M-8,Softcare Gold Diaper Maxi M-8,,,taxable,,1,45,,0,0,,,,,0,,,,Household Cleaners,,,https://kapuafrica.com/wp-content/uploads/2022/01/Softcare-Medium.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3213,variable,9922661962,Softcare Gold Diaper Maxi S-8,1,0,visible,Softcare Gold Diaper Maxi S-8,Softcare Gold Diaper Maxi S-8,,,taxable,,1,36,,0,0,,,,,0,,,,Household Cleaners,,,https://kapuafrica.com/wp-content/uploads/2022/01/Softcare-Diapers-Small.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3214,variable,1611173445,Sunlight Powder Lavender - 40g,1,0,visible,Sunlight Powder Lavender - 40g,Sunlight Powder Lavender - 40g,,,taxable,,1,120,,0,0,,,,,0,,,,Household Cleaners,,,https://kapuafrica.com/wp-content/uploads/2022/01/sunlight-200g-pink-1.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3215,variable,2599419737,Toilex Wrapped Toilet Tissue - 1 Roll,1,0,visible,Toilex Wrapped Toilet Tissue - 1 Roll,Toilex Wrapped Toilet Tissue - 1 Roll,,,taxable,,1,34,,0,0,,,,,0,,,,Household Cleaners,,,https://kapuafrica.com/wp-content/uploads/2022/01/Toilex-1-roll.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3216,variable,7195055335,Vaseline Pure Jelly - 50g,1,0,visible,Vaseline Pure Jelly - 50g,Vaseline Pure Jelly - 50g,,,taxable,,1,396,,0,0,,,,,0,,,,Beauty,,,https://kapuafrica.com/wp-content/uploads/2022/01/Vaseline-50g.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3217,variable,7718910308,Weetabix Single Serve - 37G,1,0,visible,Weetabix Single Serve - 37G,Weetabix Single Serve - 37G,,,taxable,,1,223,,0,0,,,,,0,,,,Bread &amp; Cereals,,,https://kapuafrica.com/wp-content/uploads/2022/01/Weetabix-Single-Serve.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3218,variable,838673691,Ajab Home Baking - 2Kg,1,0,visible,Ajab Home Baking - 2Kg,Ajab Home Baking - 2Kg,,,taxable,,1,453,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2021/11/ajab-home-baking0flour-2kg.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3219,variable,8411665263,Daima Uht - 500Ml,1,0,visible,Daima Uht - 500Ml,Daima Uht - 500Ml,,,taxable,,1,131,,0,0,,,,,0,,,,Milk,,,https://kapuafrica.com/wp-content/uploads/2021/11/daima_uht_fino_500ml.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3220,variable,576431025,Kabras Sugar - 2Kg,1,0,visible,Kabras Sugar - 2Kg,Kabras Sugar - 2Kg,,,taxable,,1,104,,0,0,,,,,0,,,,Sugar,,,https://kapuafrica.com/wp-content/uploads/2021/11/Kabras-Sugar-2kg.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3221,variable,9475886996,Lato Fino UHT - 500Ml,1,0,visible,Lato Fino UHT - 500Ml,Lato Fino UHT - 500Ml,,,taxable,,1,424,,0,0,,,,,0,,,,Milk,,,https://kapuafrica.com/wp-content/uploads/2022/01/Lato-whole-milk-.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3222,variable,6205229719,Pembe Maize Meal - 2Kg,1,0,visible,Pembe Maize Meal - 2Kg,Pembe Maize Meal - 2Kg,,,taxable,,1,867,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/01/Pembe-Maize-Meal-2kg.png,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3223,variable,1328760238,Soko Maize Meal - 2Kg,1,0,visible,Soko Maize Meal - 2Kg,Soko Maize Meal - 2Kg,,,taxable,,1,447,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2021/11/soko-maize-meal-2kg.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3224,variable,9537030280,Banana Local Medium - 3 Bananas,1,0,visible,Banana Local Medium - 3 Bananas,Banana Local Medium - 3 Bananas,,,taxable,,1,15,,0,0,,,,,0,,,,Fruits,,,https://kapuafrica.com/wp-content/uploads/2022/01/Bananas-X-3.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3225,variable,9067048862,Carrot - 5 Carrots (400 to 500gr),1,0,visible,Carrot - 5 Carrots (400 to 500gr),Carrot - 5 Carrots (400 to 500gr),,,taxable,,1,35,,0,0,,,,,0,,,,Vegetables,,,https://kapuafrica.com/wp-content/uploads/2022/01/Carrots-X-5.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3226,variable,5641028820,Egg - Piece,1,0,visible,Egg - Piece,Egg - Piece,,,taxable,,1,20,,0,0,,,,,0,,,,Egg,,,https://kapuafrica.com/wp-content/uploads/2022/01/Egg_1.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3227,variable,6893689190,Egg - Tray (30 Pieces),1,0,visible,Egg - Tray (30 Pieces),Egg - Tray (30 Pieces),,,taxable,,1,163,,0,0,,,,,0,,,,Egg,,,https://kapuafrica.com/wp-content/uploads/2022/01/Egg-Tray.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3228,variable,2073264559,Irish Managu - Bunch (400 to 500gr),1,0,visible,Irish Managu - Bunch (400 to 500gr),Irish Managu - Bunch (400 to 500gr),,,taxable,,0,0,,0,0,,,,,0,,,,Vegetables,,,https://kapuafrica.com/wp-content/uploads/2022/01/Irish-Managu.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3229,variable,420225599,Kunde - Bunch (350 to 400 gr),1,0,visible,Kunde - Bunch (350 to 400 gr),Kunde - Bunch (350 to 400 gr),,,taxable,,0,0,,0,0,,,,,0,,,,Vegetables,,,https://kapuafrica.com/wp-content/uploads/2022/01/Kunde.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3230,variable,944256867,Onion Red Medium - 1Kg,1,0,visible,Onion Red Medium - 1Kg,Onion Red Medium - 1Kg,,,taxable,,1,45,,0,0,,,,,0,,,,Vegetables,,,https://kapuafrica.com/wp-content/uploads/2022/01/Onions-1KG.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3231,variable,7916381000,Onion Red Small - 1Kg,1,0,visible,Onion Red Small - 1Kg,Onion Red Small - 1Kg,,,taxable,,1,41,,0,0,,,,,0,,,,Vegetables,,,https://kapuafrica.com/wp-content/uploads/2022/01/Onions-1KG.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3232,variable,1237419866,Onions Red Medium - 3 Pieces,1,0,visible,Onions Red Medium - 3 Pieces,Onions Red Medium - 3 Pieces,,,taxable,,1,144,,0,0,,,,,0,,,,Vegetables,,,https://kapuafrica.com/wp-content/uploads/2022/01/Onions-X-3-pieces.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3233,variable,4430535536,Onions Red Small - 2 Pieces,1,0,visible,Onions Red Small - 2 Pieces,Onions Red Small - 2 Pieces,,,taxable,,1,74,,0,0,,,,,0,,,,Vegetables,,,https://kapuafrica.com/wp-content/uploads/2022/01/Onions-red-X-2-Small.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3234,variable,1622299377,Onions Red Small - 3 Pieces,1,0,visible,Onions Red Small - 3 Pieces,Onions Red Small - 3 Pieces,,,taxable,,1,114,,0,0,,,,,0,,,,Vegetables,,,https://kapuafrica.com/wp-content/uploads/2022/01/Onions-Small-X-3.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3235,variable,4171505109,Potatoes (Changi) Assorted - 1 KG,1,0,visible,Potatoes (Changi) Assorted - 1 KG,Potatoes (Changi) Assorted - 1 KG,,,taxable,,1,109,,0,0,,,,,0,,,,Vegetables,,,https://kapuafrica.com/wp-content/uploads/2022/01/Potatoes-Changi-1kg.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3236,variable,667552795,Spinach - Bunch (500 to 600gr),1,0,visible,Spinach - Bunch (500 to 600gr),Spinach - Bunch (500 to 600gr),,,taxable,,1,30,,0,0,,,,,0,,,,Vegetables,,,https://kapuafrica.com/wp-content/uploads/2022/01/Spinach.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3237,variable,9051778069,Sukuma - Bunch (500 to 600gr),1,0,visible,Sukuma - Bunch (500 to 600gr),Sukuma - Bunch (500 to 600gr),,,taxable,,1,30,,0,0,,,,,0,,,,Vegetables,,,https://kapuafrica.com/wp-content/uploads/2022/01/Spinach.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3238,variable,646389757,Terrere - Bunch (500 to 600gr),1,0,visible,Terrere - Bunch (500 to 600gr),Terrere - Bunch (500 to 600gr),,,taxable,,0,0,,0,0,,,,,0,,,,Vegetables,,,https://kapuafrica.com/wp-content/uploads/2022/01/Terere_Bunch.png,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3239,variable,550486364,Tomato Medium - 3 Pieces,1,0,visible,Tomato Medium - 3 Pieces,Tomato Medium - 3 Pieces,,,taxable,,1,62,,0,0,,,,,0,,,,Vegetables,,,https://kapuafrica.com/wp-content/uploads/2021/11/tomato.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3240,variable,9217739136,Pembe Home Baking - 2Kg,1,0,visible,Pembe Home Baking - 2Kg,Pembe Home Baking - 2Kg,,,taxable,,1,434,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/01/pembe-ngano-1kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3241,variable,5406120279,Rina Vegetable Oil - 10L,1,0,visible,Rina Vegetable Oil - 10L,Rina Vegetable Oil - 10L,,,taxable,,1,2,,0,0,,,,,0,,,,Oil,,,https://kapuafrica.com/wp-content/uploads/2022/01/Rina-10L.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3242,variable,7857504030,Rina Vegetable Oil - 1L,1,0,visible,Rina Vegetable Oil - 1L,Rina Vegetable Oil - 1L,,,taxable,,1,38,,0,0,,,,,0,,,,Oil,,,https://kapuafrica.com/wp-content/uploads/2022/01/Rina-1L.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3244,variation,,Festive Brown - 400g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,52,,,,,,,5022568797,,,,,,0,Pricing,Base,,1
+3246,variation,,Festive Brown - 600g - Base,1,0,hidden,,,,,taxable,,1,,,0,0,,,,,0,,,77,,,,,,,3210825758,,,,,,0,Pricing,Base,,1
+3248,variation,,Festive White - 400g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,52,,,,,,,8227628630,,,,,,0,Pricing,Base,,1
+3250,variation,,Festive White - 600g - Base,1,0,hidden,,,,,taxable,,1,,,0,0,,,,,0,,,77,,,,,,,3806867649,,,,,,0,Pricing,Base,,1
+3252,variation,,Arimis Milking Jelly - 200g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,83,,,,,,,1181100148,,,,,,0,Pricing,Base,,1
+3254,variation,,Arimis Milking Jelly - 50g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,28,,,,,,,1749308189,,,,,,0,Pricing,Base,,1
+3256,variation,,Blue Band Original - 100G - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,49,,,,,,,9604696117,,,,,,0,Pricing,Base,,1
+3258,variation,,Blue Band Original - 250G - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,105,,,,,,,9673768233,,,,,,0,Pricing,Base,,1
+3260,variation,,Blue Band Original - 500G - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,199,,,,,,,86722522,,,,,,0,Pricing,Base,,1
+3262,variation,,Chapa Mandashi - 100g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,23,,,,,,,2966612175,,,,,,0,Pricing,Base,,1
+3264,variation,,Colgate Herbal - 35G - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,56,,,,,,,6604733167,,,,,,0,Pricing,Base,,1
+3266,variation,,Fahari Ya Kenya Tea - 100g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,45,,,,,,,5368535563,,,,,,0,Pricing,Base,,1
+3268,variation,,Geisha Milk & Honey Soap - 225G - Base,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,83,,,,,,,3645210080,,,,,,0,Pricing,Base,,1
+3270,variation,,Indomie Beef - 120g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,34,,,,,,,4885602117,,,,,,0,Pricing,Base,,1
+3272,variation,,Indomie Chicken - 120g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,34,,,,,,,7646909809,,,,,,0,Pricing,Base,,1
+3274,variation,,Kensalt - 1Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,33,,,,,,,6518583240,,,,,,0,Pricing,Base,,1
+3276,variation,,Kensalt - 200G - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,9,,,,,,,3306580224,,,,,,0,Pricing,Base,,1
+3278,variation,,Kensalt - 500G - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,17,,,,,,,4130357482,,,,,,0,Pricing,Base,,1
+3280,variation,,Mchuzi Mix Beef Kora - 10g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,5,,,,,,,375340437,,,,,,0,Pricing,Base,,1
+3282,variation,,Ngarisha Steel Wool -15Gms - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,7,,,,,,,4103880190,,,,,,0,Pricing,Base,,1
+3284,variation,,Rhino Ndogo Match Box - 10 S - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,25,,,,,,,7794987563,,,,,,0,Pricing,Base,,1
+3286,variation,,Royco - Bouillon Beef Cube 4g x 3 Pieces - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,,,,,,,,3819626227,,,,,,0,Pricing,Base,,1
+3288,variation,,Softcare Gold Diaper Maxi L-8 - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,120,,,,,,,9400515460,,,,,,0,Pricing,Base,,1
+3290,variation,,Softcare Gold Diaper Maxi M-8 - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,120,,,,,,,2685380480,,,,,,0,Pricing,Base,,1
+3292,variation,,Softcare Gold Diaper Maxi S-8 - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,120,,,,,,,9922661962,,,,,,0,Pricing,Base,,1
+3294,variation,,Sunlight Powder Lavender - 40g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,9,,,,,,,1611173445,,,,,,0,Pricing,Base,,1
+3296,variation,,Toilex Wrapped Toilet Tissue - 1 Roll - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,23,,,,,,,2599419737,,,,,,0,Pricing,Base,,1
+3298,variation,,Vaseline Pure Jelly - 50g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,58,,,,,,,7195055335,,,,,,0,Pricing,Base,,1
+3300,variation,,Weetabix Single Serve - 37G - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,24,,,,,,,7718910308,,,,,,0,Pricing,Base,,1
+3302,variation,,Ajab Home Baking - 2Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,146,,,,,,,838673691,,,,,,0,Pricing,Base,,1
+3304,variation,,Daima Uht - 500Ml - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,47,,,,,,,8411665263,,,,,,0,Pricing,Base,,1
+3306,variation,,Kabras Sugar - 2Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,250,,,,,,,576431025,,,,,,0,Pricing,Base,,1
+3308,variation,,Lato Fino UHT - 500Ml - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,48,,,,,,,9475886996,,,,,,0,Pricing,Base,,1
+3310,variation,,Pembe Maize Meal - 2Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,114,,,,,,,6205229719,,,,,,0,Pricing,Base,,1
+3312,variation,,Soko Maize Meal - 2Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,115,,,,,,,1328760238,,,,,,0,Pricing,Base,,1
+3314,variation,,Banana Local Medium - 3 Bananas - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,20,,,,,,,9537030280,,,,,,0,Pricing,Base,,1
+3316,variation,,Carrot - 5 Carrots (400 to 500gr) - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,20,,,,,,,9067048862,,,,,,0,Pricing,Base,,1
+3318,variation,,Egg - Piece - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,12,,,,,,,5641028820,,,,,,0,Pricing,Base,,1
+3320,variation,,Egg - Tray (30 Pieces) - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,310,,,,,,,6893689190,,,,,,0,Pricing,Base,,1
+3322,variation,,Irish Managu - Bunch (400 to 500gr) - Base,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,20,,,,,,,2073264559,,,,,,0,Pricing,Base,,1
+3324,variation,,Kunde - Bunch (350 to 400 gr) - Base,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,20,,,,,,,420225599,,,,,,0,Pricing,Base,,1
+3326,variation,,Onion Red Medium - 1Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,89,,,,,,,944256867,,,,,,0,Pricing,Base,,1
+3328,variation,,Onion Red Small - 1Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,89,,,,,,,7916381000,,,,,,0,Pricing,Base,,1
+3330,variation,,Onions Red Medium - 3 Pieces - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,20,,,,,,,1237419866,,,,,,0,Pricing,Base,,1
+3332,variation,,Onions Red Small - 2 Pieces - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,10,,,,,,,4430535536,,,,,,0,Pricing,Base,,1
+3334,variation,,Onions Red Small - 3 Pieces - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,15,,,,,,,1622299377,,,,,,0,Pricing,Base,,1
+3336,variation,,Potatoes (Changi) Assorted - 1 KG - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,39,,,,,,,4171505109,,,,,,0,Pricing,Base,,1
+3338,variation,,Spinach - Bunch (500 to 600gr) - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,20,,,,,,,667552795,,,,,,0,Pricing,Base,,1
+3340,variation,,Sukuma - Bunch (500 to 600gr) - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,20,,,,,,,9051778069,,,,,,0,Pricing,Base,,1
+3342,variation,,Terrere - Bunch (500 to 600gr) - Base,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,20,,,,,,,646389757,,,,,,0,Pricing,Base,,1
+3344,variation,,Tomato Medium - 3 Pieces - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,20,,,,,,,550486364,,,,,,0,Pricing,Base,,1
+3346,variation,,Pembe Home Baking - 2Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,144,,,,,,,9217739136,,,,,,0,Pricing,Base,,1
+3348,variation,,Rina Vegetable Oil - 10L - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,2400,,,,,,,5406120279,,,,,,0,Pricing,Base,,1
+3350,variation,,Rina Vegetable Oil - 1L - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,299,,,,,,,7857504030,,,,,,0,Pricing,Base,,1
+3352,variation,,Festive Brown - 400g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,51,,,,,,,5022568797,,,,,,0,Pricing,Pamoja,,1
+3354,variation,,Festive Brown - 600g - Pamoja,1,0,hidden,,,,,taxable,,1,,,0,0,,,,,0,,,75,,,,,,,3210825758,,,,,,0,Pricing,Pamoja,,1
+3356,variation,,Festive White - 400g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,51,,,,,,,8227628630,,,,,,0,Pricing,Pamoja,,1
+3358,variation,,Festive White - 600g - Pamoja,1,0,hidden,,,,,taxable,,1,,,0,0,,,,,0,,,75,,,,,,,3806867649,,,,,,0,Pricing,Pamoja,,1
+3360,variation,,Arimis Milking Jelly - 200g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,80,,,,,,,1181100148,,,,,,0,Pricing,Pamoja,,1
+3362,variation,,Arimis Milking Jelly - 50g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,26,,,,,,,1749308189,,,,,,0,Pricing,Pamoja,,1
+3364,variation,,Blue Band Original - 100G - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,46,,,,,,,9604696117,,,,,,0,Pricing,Pamoja,,1
+3366,variation,,Blue Band Original - 250G - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,103,,,,,,,9673768233,,,,,,0,Pricing,Pamoja,,1
+3368,variation,,Blue Band Original - 500G - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,198,,,,,,,86722522,,,,,,0,Pricing,Pamoja,,1
+3370,variation,,Chapa Mandashi - 100g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,22,,,,,,,2966612175,,,,,,0,Pricing,Pamoja,,1
+3372,variation,,Colgate Herbal - 35G - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,52,,,,,,,6604733167,,,,,,0,Pricing,Pamoja,,1
+3374,variation,,Fahari Ya Kenya Tea - 100g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,41,,,,,,,5368535563,,,,,,0,Pricing,Pamoja,,1
+3376,variation,,Geisha Milk & Honey Soap - 225G - Pamoja,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,80,,,,,,,3645210080,,,,,,0,Pricing,Pamoja,,1
+3378,variation,,Indomie Beef - 120g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,30,,,,,,,4885602117,,,,,,0,Pricing,Pamoja,,1
+3380,variation,,Indomie Chicken - 120g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,30,,,,,,,7646909809,,,,,,0,Pricing,Pamoja,,1
+3382,variation,,Kensalt - 1Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,31,,,,,,,6518583240,,,,,,0,Pricing,Pamoja,,1
+3384,variation,,Kensalt - 200G - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,8,,,,,,,3306580224,,,,,,0,Pricing,Pamoja,,1
+3386,variation,,Kensalt - 500G - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,16,,,,,,,4130357482,,,,,,0,Pricing,Pamoja,,1
+3388,variation,,Mchuzi Mix Beef Kora - 10g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,4,,,,,,,375340437,,,,,,0,Pricing,Pamoja,,1
+3390,variation,,Ngarisha Steel Wool -15Gms - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,5,,,,,,,4103880190,,,,,,0,Pricing,Pamoja,,1
+3392,variation,,Rhino Ndogo Match Box - 10 S - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,24,,,,,,,7794987563,,,,,,0,Pricing,Pamoja,,1
+3394,variation,,Royco - Bouillon Beef Cube 4g x 3 Pieces - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,,,,,,,,3819626227,,,,,,0,Pricing,Pamoja,,1
+3396,variation,,Softcare Gold Diaper Maxi L-8 - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,115,,,,,,,9400515460,,,,,,0,Pricing,Pamoja,,1
+3398,variation,,Softcare Gold Diaper Maxi M-8 - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,115,,,,,,,2685380480,,,,,,0,Pricing,Pamoja,,1
+3400,variation,,Softcare Gold Diaper Maxi S-8 - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,115,,,,,,,9922661962,,,,,,0,Pricing,Pamoja,,1
+3402,variation,,Sunlight Powder Lavender - 40g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,8,,,,,,,1611173445,,,,,,0,Pricing,Pamoja,,1
+3404,variation,,Toilex Wrapped Toilet Tissue - 1 Roll - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,22,,,,,,,2599419737,,,,,,0,Pricing,Pamoja,,1
+3406,variation,,Vaseline Pure Jelly - 50g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,52,,,,,,,7195055335,,,,,,0,Pricing,Pamoja,,1
+3408,variation,,Weetabix Single Serve - 37G - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,20,,,,,,,7718910308,,,,,,0,Pricing,Pamoja,,1
+3410,variation,,Ajab Home Baking - 2Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,145,,,,,,,838673691,,,,,,0,Pricing,Pamoja,,1
+3412,variation,,Daima Uht - 500Ml - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,45,,,,,,,8411665263,,,,,,0,Pricing,Pamoja,,1
+3414,variation,,Kabras Sugar - 2Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,248,,,,,,,576431025,,,,,,0,Pricing,Pamoja,,1
+3416,variation,,Lato Fino UHT - 500Ml - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,46,,,,,,,9475886996,,,,,,0,Pricing,Pamoja,,1
+3418,variation,,Pembe Maize Meal - 2Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,113,,,,,,,6205229719,,,,,,0,Pricing,Pamoja,,1
+3420,variation,,Soko Maize Meal - 2Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,114,,,,,,,1328760238,,,,,,0,Pricing,Pamoja,,1
+3422,variation,,Banana Local Medium - 3 Bananas - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,18,,,,,,,9537030280,,,,,,0,Pricing,Pamoja,,1
+3424,variation,,Carrot - 5 Carrots (400 to 500gr) - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,18,,,,,,,9067048862,,,,,,0,Pricing,Pamoja,,1
+3426,variation,,Egg - Piece - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,11,,,,,,,5641028820,,,,,,0,Pricing,Pamoja,,1
+3428,variation,,Egg - Tray (30 Pieces) - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,305,,,,,,,6893689190,,,,,,0,Pricing,Pamoja,,1
+3430,variation,,Irish Managu - Bunch (400 to 500gr) - Pamoja,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,18,,,,,,,2073264559,,,,,,0,Pricing,Pamoja,,1
+3432,variation,,Kunde - Bunch (350 to 400 gr) - Pamoja,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,18,,,,,,,420225599,,,,,,0,Pricing,Pamoja,,1
+3434,variation,,Onion Red Medium - 1Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,85,,,,,,,944256867,,,,,,0,Pricing,Pamoja,,1
+3436,variation,,Onion Red Small - 1Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,85,,,,,,,7916381000,,,,,,0,Pricing,Pamoja,,1
+3438,variation,,Onions Red Medium - 3 Pieces - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,18,,,,,,,1237419866,,,,,,0,Pricing,Pamoja,,1
+3440,variation,,Onions Red Small - 2 Pieces - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,9,,,,,,,4430535536,,,,,,0,Pricing,Pamoja,,1
+3442,variation,,Onions Red Small - 3 Pieces - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,14,,,,,,,1622299377,,,,,,0,Pricing,Pamoja,,1
+3444,variation,,Potatoes (Changi) Assorted - 1 KG - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,35,,,,,,,4171505109,,,,,,0,Pricing,Pamoja,,1
+3446,variation,,Spinach - Bunch (500 to 600gr) - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,18,,,,,,,667552795,,,,,,0,Pricing,Pamoja,,1
+3448,variation,,Sukuma - Bunch (500 to 600gr) - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,18,,,,,,,9051778069,,,,,,0,Pricing,Pamoja,,1
+3450,variation,,Terrere - Bunch (500 to 600gr) - Pamoja,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,18,,,,,,,646389757,,,,,,0,Pricing,Pamoja,,1
+3452,variation,,Tomato Medium - 3 Pieces - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,18,,,,,,,550486364,,,,,,0,Pricing,Pamoja,,1
+3454,variation,,Pembe Home Baking - 2Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,140,,,,,,,9217739136,,,,,,0,Pricing,Pamoja,,1
+3456,variation,,Rina Vegetable Oil - 10L - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,2350,,,,,,,5406120279,,,,,,0,Pricing,Pamoja,,1
+3458,variation,,Rina Vegetable Oil - 1L - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,296,,,,,,,7857504030,,,,,,0,Pricing,Pamoja,,1
+3736,variable,6836363084,Ufuta Cooking Oil - 1L,1,0,visible,Ufuta Cooking Oil - 1L,Ufuta Cooking Oil - 1L,,,taxable,,1,20,,0,0,,,,,0,,,,Oil,,,https://kapuafrica.com/wp-content/uploads/2022/01/Ufuta-1l.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3737,variable,2299386976,Ufuta Vegetable Cooking Oil - 500ml,1,0,visible,Ufuta Vegetable Cooking Oil - 500ml,Ufuta Vegetable Cooking Oil - 500ml,,,taxable,,1,20,,0,0,,,,,0,,,,Oil,,,https://kapuafrica.com/wp-content/uploads/2021/11/ufuta-500ml.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3738,variable,8946330124,Ufuta Vegetable Cooking Oil - 5L,1,0,visible,Ufuta Vegetable Cooking Oil - 5L,Ufuta Vegetable Cooking Oil - 5L,,,taxable,,1,7,,0,0,,,,,0,,,,Oil,,,https://kapuafrica.com/wp-content/uploads/2022/01/Ufuta-5l.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3739,variable,2198730129,Geisha Milk &amp; Honey Soap - 225G,1,0,hidden,Geisha Milk &amp; Honey Soap - 225G,Geisha Milk &amp; Honey Soap - 225G,,,taxable,,0,,,0,0,,,,,0,,,,Beauty,,,https://kapuafrica.com/wp-content/uploads/2022/01/Geisha-milk-and-honey.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3740,variable,6387436123,Msafi Cream Bar Soap 1Kg,1,0,visible,Msafi Cream Bar Soap 1Kg,Msafi Cream Bar Soap 1Kg,,,taxable,,1,39,,0,0,,,,,0,,,,Household Cleaner,,,https://kapuafrica.com/wp-content/uploads/2022/01/Msafi-1kg.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3741,variable,2823663385,Ranee Spaghetti - 400G,1,0,visible,Ranee Spaghetti - 400G,Ranee Spaghetti - 400G,,,taxable,,1,95,,0,0,,,,,0,,,,Pasta &amp; Noodles,,,https://kapuafrica.com/wp-content/uploads/2022/01/Ranee-Green-Spagetti.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3742,variable,687645793,Sokoni Steel Wool - Satchet,1,0,visible,Sokoni Steel Wool - Satchet,Sokoni Steel Wool - Satchet,,,taxable,,1,659,,0,0,,,,,0,,,,Household Cleaner,,,https://kapuafrica.com/wp-content/uploads/2022/01/Sokoni-Steel-Wool.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3743,variable,7412747853,Sunlight Tablet Yellow - 50g,1,0,visible,Sunlight Tablet Yellow - 50g,Sunlight Tablet Yellow - 50g,,,taxable,,1,130,,0,0,,,,,0,,,,Household Cleaner,,,https://kapuafrica.com/wp-content/uploads/2022/01/Sunlight-Yellow-50g.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3744,variable,3101560275,Kabras Sugar - 1Kg,1,0,visible,Kabras Sugar - 1Kg,Kabras Sugar - 1Kg,,,taxable,,1,293,,0,0,,,,,0,,,,Sugar,,,https://kapuafrica.com/wp-content/uploads/2022/01/Kabras-1kg.png,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3745,variable,6337594797,Rina Vegetable Oil - 500ml,1,0,visible,Rina Vegetable Oil - 500ml,Rina Vegetable Oil - 500ml,,,taxable,,1,10,,0,0,,,,,0,,,,Oil,,,https://kapuafrica.com/wp-content/uploads/2022/01/Rina-500ml.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3746,variable,4617557768,Vaseline Pure Jelly - 100g,1,0,visible,Vaseline Pure Jelly - 100g,Vaseline Pure Jelly - 100g,,,taxable,,1,71,,0,0,,,,,0,,,,Beauty,,,https://kapuafrica.com/wp-content/uploads/2022/01/Vaseline-100g.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3747,variable,8307631048,Royco Bouillon Beef Cube - 4g*40 pieces,1,0,visible,Royco Bouillon Beef Cube - 4g*40 pieces,Royco Bouillon Beef Cube - 4g*40 pieces,,,taxable,,1,39,,0,0,,,,,0,,,,Cooking Ingredient,,,https://kapuafrica.com/wp-content/uploads/2022/01/Royco-Beef-X-40.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3748,variable,1769981495,Geisha Rose & Honey Soap - 225G,1,0,visible,Geisha Rose &amp; Honey Soap - 225G,Geisha Rose &amp; Honey Soap - 225G,,,taxable,,1,48,,0,0,,,,,0,,,,Beauty,,,https://kapuafrica.com/wp-content/uploads/2022/01/Geisha-Rose-Honey-Soap.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3749,variable,552666428,Indomie- Beef 70g,1,0,hidden,Indomie- Beef 70g,Indomie- Beef 70g,,,taxable,,0,0,,0,0,,,,,0,,,,Pasta &amp; Noodles,,,https://kapuafrica.com/wp-content/uploads/2022/01/indomie-instant-noodles-beef-flavour-70g..jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3750,variable,4959713278,Pembe Ata Mark 1 - 2Kg,1,0,visible,Pembe Ata Mark 1 - 2Kg,Pembe Ata Mark 1 - 2Kg,,,taxable,,1,53,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/01/Pembe-Atta-2kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3751,variation,,Ufuta Cooking Oil - 1L - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,282,,,,,,,6836363084,,,,,,0,Pricing,Base,,1
+3752,variation,,Ufuta Vegetable Cooking Oil - 500ml - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,165,,,,,,,2299386976,,,,,,0,Pricing,Base,,1
+3753,variation,,Ufuta Vegetable Cooking Oil - 5L - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,1199,,,,,,,8946330124,,,,,,0,Pricing,Base,,1
+3754,variation,,Geisha Milk &amp; Honey Soap - 225G - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,,,,,,,,2198730129,,,,,,0,Pricing,Base,,1
+3755,variation,,Msafi Cream Bar Soap 1Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,139,,,,,,,6387436123,,,,,,0,Pricing,Base,,1
+3756,variation,,Ranee Spaghetti - 400G - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,58,,,,,,,2823663385,,,,,,0,Pricing,Base,,1
+3757,variation,,Sokoni Steel Wool - Satchet - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,7,,,,,,,687645793,,,,,,0,Pricing,Base,,1
+3758,variation,,Sunlight Tablet Yellow - 50g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,15,,,,,,,7412747853,,,,,,0,Pricing,Base,,1
+3759,variation,,Kabras Sugar - 1Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,129,,,,,,,3101560275,,,,,,0,Pricing,Base,,1
+3760,variation,,Rina Vegetable Oil - 500ml - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,160,,,,,,,6337594797,,,,,,0,Pricing,Base,,1
+3761,variation,,Vaseline Pure Jelly - 100g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,107,,,,,,,4617557768,,,,,,0,Pricing,Base,,1
+3762,variation,,Royco Bouillon Beef Cube - 4g*40 pieces - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,125,,,,,,,8307631048,,,,,,0,Pricing,Base,,1
+3763,variation,,Geisha Rose & Honey Soap - 225G - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,83,,,,,,,1769981495,,,,,,0,Pricing,Base,,1
+3764,variation,,Indomie- Beef 70g - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,20,,,,,,,552666428,,,,,,0,Pricing,Base,,1
+3765,variation,,Pembe Ata Mark 1 - 2Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,142,,,,,,,4959713278,,,,,,0,Pricing,Base,,1
+3766,variation,,Ufuta Cooking Oil - 1L - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,277,,,,,,,6836363084,,,,,,0,Pricing,Pamoja,,1
+3767,variation,,Ufuta Vegetable Cooking Oil - 500ml - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,156,,,,,,,2299386976,,,,,,0,Pricing,Pamoja,,1
+3768,variation,,Ufuta Vegetable Cooking Oil - 5L - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,1180,,,,,,,8946330124,,,,,,0,Pricing,Pamoja,,1
+3769,variation,,Geisha Milk &amp; Honey Soap - 225G - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,,,,,,,,2198730129,,,,,,0,Pricing,Pamoja,,1
+3770,variation,,Msafi Cream Bar Soap 1Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,135,,,,,,,6387436123,,,,,,0,Pricing,Pamoja,,1
+3771,variation,,Ranee Spaghetti - 400G - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,55,,,,,,,2823663385,,,,,,0,Pricing,Pamoja,,1
+3772,variation,,Sokoni Steel Wool - Satchet - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,5,,,,,,,687645793,,,,,,0,Pricing,Pamoja,,1
+3773,variation,,Sunlight Tablet Yellow - 50g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,14,,,,,,,7412747853,,,,,,0,Pricing,Pamoja,,1
+3774,variation,,Kabras Sugar - 1Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,125,,,,,,,3101560275,,,,,,0,Pricing,Pamoja,,1
+3775,variation,,Rina Vegetable Oil - 500ml - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,155,,,,,,,6337594797,,,,,,0,Pricing,Pamoja,,1
+3776,variation,,Vaseline Pure Jelly - 100g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,99,,,,,,,4617557768,,,,,,0,Pricing,Pamoja,,1
+3777,variation,,Royco Bouillon Beef Cube - 4g*40 pieces - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,120,,,,,,,8307631048,,,,,,0,Pricing,Pamoja,,1
+3778,variation,,Geisha Rose & Honey Soap - 225G - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,80,,,,,,,1769981495,,,,,,0,Pricing,Pamoja,,1
+3779,variation,,Indomie- Beef 70g - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,18,,,,,,,552666428,,,,,,0,Pricing,Pamoja,,1
+3780,variation,,Pembe Ata Mark 1 - 2Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,139,,,,,,,4959713278,,,,,,0,Pricing,Pamoja,,1
+3949,variable,3066355198,Pembe Maize Meal - 1Kg,1,0,visible,Pembe Maize Meal - 1Kg,Pembe Maize Meal - 1Kg,,,taxable,,1,319,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/01/Pembe-Maize-Meal-1kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3950,variable,4124446115,Ajab Home Baking - 1Kg,1,0,visible,Ajab Home Baking - 1Kg,Ajab Home Baking - 1Kg,,,taxable,,1,469,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/01/Ajab-kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3951,variable,3886184478,Menengai Cream Bar Soap - 1KG,1,0,visible,Menengai Cream Bar Soap - 1KG,Menengai Cream Bar Soap - 1KG,,,taxable,,0,100,,0,0,,,,,0,,,,Household Cleaner,,,https://kapuafrica.com/wp-content/uploads/2022/01/Menegai-Cream-Bar-Soap.png,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3952,variable,1732607775,Quencher Orange - 1L,1,0,visible,Quencher Orange - 1L,Quencher Orange - 1L,,,taxable,,1,21,,0,0,,,,,0,,,,Soft Drinks,,,https://kapuafrica.com/wp-content/uploads/2022/01/Quencher-1kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3953,variable,2502190783,Pembe Home Baking - 1KG,1,0,visible,Pembe Home Baking - 1KG,Pembe Home Baking - 1KG,,,taxable,,1,475,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/01/Pembe-Atta-2kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3954,variable,7956442967,Softcare Sanitary Pads Maxi Thick - 8,1,0,visible,Softcare Sanitary Pads Maxi Thick - 8,Softcare Sanitary Pads Maxi Thick - 8,,,taxable,,1,24,,0,0,,,,,0,,,,Hygiene,,,https://kapuafrica.com/wp-content/uploads/2022/01/Softcare-sanitary.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3955,variable,3349960968,Omo Extra Fresh - 30g,1,0,visible,Omo Extra Fresh - 30g,Omo Extra Fresh - 30g,,,taxable,,0,0,,0,0,,,,,0,,,,Household Cleaner,,,https://kapuafrica.com/wp-content/uploads/2022/01/Omo-Extra-Fresh-30g.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3956,variable,6662194864,Pekee Smart Wrapped - 1 Roll,1,0,visible,Pekee Smart Wrapped - 1 Roll,Pekee Smart Wrapped - 1 Roll,,,taxable,,1,161,,0,0,,,,,0,,,,Hygiene,,,https://kapuafrica.com/wp-content/uploads/2022/01/Pekee-1-Roll.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3957,variable,5441115845,Egg - Half Tray (15 Pieces),1,0,visible,Egg - Half Tray (15 Pieces),Egg - Half Tray (15 Pieces),,,taxable,,1,100,,0,0,,,,,0,,,,Egg,,,https://kapuafrica.com/wp-content/uploads/2022/01/Eggs-12-tray.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3958,variable,5144296158,Royco - Bouillon Beef Cube 4g x 10 Pieces,1,0,visible,Royco - Bouillon Beef Cube 4g x 10 Pieces,Royco - Bouillon Beef Cube 4g x 10 Pieces,,,taxable,,1,100,,0,0,,,,,0,,,,Cooking Ingredient,,,https://kapuafrica.com/wp-content/uploads/2022/01/Royco-Beef-10-cues.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3959,variation,,Pembe Maize Meal - 1Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,58,,,,,,,3066355198,,,,,,0,Pricing,Base,,1
+3960,variation,,Ajab Home Baking - 1Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,74,,,,,,,4124446115,,,,,,0,Pricing,Base,,1
+3961,variation,,Menengai Cream Bar Soap - 1KG - Base,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,180,,,,,,,3886184478,,,,,,0,Pricing,Base,,1
+3962,variation,,Quencher Orange - 1L - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,144,,,,,,,1732607775,,,,,,0,Pricing,Base,,1
+3963,variation,,Pembe Home Baking - 1KG - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,72,,,,,,,2502190783,,,,,,0,Pricing,Base,,1
+3964,variation,,Softcare Sanitary Pads Maxi Thick - 8 - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,49,,,,,,,7956442967,,,,,,0,Pricing,Base,,1
+3965,variation,,Omo Extra Fresh - 30g - Base,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,9,,,,,,,3349960968,,,,,,0,Pricing,Base,,1
+3966,variation,,Pekee Smart Wrapped - 1 Roll - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,24,,,,,,,6662194864,,,,,,0,Pricing,Base,,1
+3967,variation,,Egg - Half Tray (15 Pieces) - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,160,,,,,,,5441115845,,,,,,0,Pricing,Base,,1
+3968,variation,,Royco - Bouillon Beef Cube 4g x 10 Pieces - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,32,,,,,,,5144296158,,,,,,0,Pricing,Base,,1
+3969,variation,,Pembe Maize Meal - 1Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,57,,,,,,,3066355198,,,,,,0,Pricing,Pamoja,,1
+3970,variation,,Ajab Home Baking - 1Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,73,,,,,,,4124446115,,,,,,0,Pricing,Pamoja,,1
+3971,variation,,Menengai Cream Bar Soap - 1KG - Pamoja,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,179,,,,,,,3886184478,,,,,,0,Pricing,Pamoja,,1
+3972,variation,,Quencher Orange - 1L - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,140,,,,,,,1732607775,,,,,,0,Pricing,Pamoja,,1
+3973,variation,,Pembe Home Baking - 1KG - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,71,,,,,,,2502190783,,,,,,0,Pricing,Pamoja,,1
+3974,variation,,Softcare Sanitary Pads Maxi Thick - 8 - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,45,,,,,,,7956442967,,,,,,0,Pricing,Pamoja,,1
+3975,variation,,Omo Extra Fresh - 30g - Pamoja,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,8,,,,,,,3349960968,,,,,,0,Pricing,Pamoja,,1
+3976,variation,,Pekee Smart Wrapped - 1 Roll - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,19,,,,,,,6662194864,,,,,,0,Pricing,Pamoja,,1
+3977,variation,,Egg - Half Tray (15 Pieces) - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,155,,,,,,,5441115845,,,,,,0,Pricing,Pamoja,,1
+3978,variation,,Royco - Bouillon Beef Cube 4g x 10 Pieces - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,30,,,,,,,5144296158,,,,,,0,Pricing,Pamoja,,1
+3980,variable,9057620638,Menengai Cream Bar Soap - 800g,1,0,visible,Menengai Cream Bar Soap - 800g,Menengai Cream Bar Soap - 800g,,,taxable,,1,15,,0,0,,,,,0,,,,Household Cleaner,,,https://kapuafrica.com/wp-content/uploads/2022/01/Menegai-Cream-Bar-Soap.png,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+3981,variation,,Menengai Cream Bar Soap - 800g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,147,,,,,,,9057620638,,,,,,0,Pricing,Base,,1
+3982,variation,,Menengai Cream Bar Soap - 800g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,145,,,,,,,9057620638,,,,,,0,Pricing,Pamoja,,1
+4214,variable,7326231735,Mahitaji Maize Flour - 2Kg,1,0,visible,Mahitaji Maize Flour - 2Kg,Mahitaji Maize Flour - 2Kg,,,taxable,,1,12,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-02-at-9.16.15-PM-e1643826188357.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4215,variable,8876920123,Mama Maize Flour - 2Kg,1,0,hidden,Mama Maize Flour - 2Kg,Mama Maize Flour - 2Kg,,,taxable,,0,0,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/02/Mama-Maize-Flour-2kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4216,variable,8957069162,Cabbage - 1 Piece (1.3 to 1.4Kg),1,0,hidden,Cabbage - 1 Piece (1.3 to 1.4Kg),Cabbage - 1 Piece (1.3 to 1.4Kg),,,taxable,,0,0,,0,0,,,,,0,,,,Vegetable,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4217,variable,3038069397,Garlic - 1 Piece (50gr),1,0,hidden,Garlic - 1 Piece (50gr),Garlic - 1 Piece (50gr),,,taxable,,0,0,,0,0,,,,,0,,,,Vegetable,,,https://kapuafrica.com/wp-content/uploads/2022/02/white-garlic.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4218,variable,6567293625,Ginger - 1 Piece (50gr),1,0,hidden,Ginger - 1 Piece (50gr),Ginger - 1 Piece (50gr),,,taxable,,0,0,,0,0,,,,,0,,,,Vegetable,,,https://kapuafrica.com/wp-content/uploads/2022/02/Ginger-.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4219,variable,6253415922,Green Capsicum - 5 Pieces (300 t0 350gr),1,0,hidden,Green Capsicum - 5 Pieces (300 t0 350gr),Green Capsicum - 5 Pieces (300 t0 350gr),,,taxable,,0,0,,0,0,,,,,0,,,,Vegetable,,,https://kapuafrica.com/wp-content/uploads/2022/02/Green-capsicum-X-5-pieces.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4220,variable,4259419269,Local Oranges - 3 Pieces (450 to 500gr),1,0,hidden,Local Oranges - 3 Pieces (450 to 500gr),Local Oranges - 3 Pieces (450 to 500gr),,,taxable,,0,0,,0,0,,,,,0,,,,Fruits,,,https://kapuafrica.com/wp-content/uploads/2022/02/Oranges-1.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4221,variable,8486448310,Supa Loaf Butter Toast - 400g,1,0,hidden,Supa Loaf Butter Toast - 400g,Supa Loaf Butter Toast - 400g,,,taxable,,0,0,,0,0,,,,,0,,,,Bread,,,https://kapuafrica.com/wp-content/uploads/2022/02/Supa-Loaf-Butter-toast-400g.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4222,variable,5051086707,Zucchini/Courgette - 4 Pieces (350 to 450gr),1,0,hidden,Zucchini/Courgette - 4 Pieces (350 to 450gr),Zucchini/Courgette - 4 Pieces (350 to 450gr),,,taxable,,0,0,,0,0,,,,,0,,,,Vegetable,,,https://kapuafrica.com/wp-content/uploads/2022/02/Courgette-X-4.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4223,variable,7777862534,Ariel Downy Washing Powder - 40g,1,0,visible,Ariel Downy Washing Powder - 40g,Ariel Downy Washing Powder - 40g,,,taxable,,0,144,,0,0,,,,,0,,,,Household Cleaner,,,https://kapuafrica.com/wp-content/uploads/2022/02/Ariel-Downy-40g.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4224,variable,9984588410,Geisha Rose & Honey Soap - 250G,1,0,hidden,Geisha Rose &amp; Honey Soap - 250G,Geisha Rose &amp; Honey Soap - 250G,,,taxable,,0,0,,0,0,,,,,0,,,,Hygiene,,,https://kapuafrica.com/wp-content/uploads/2022/01/Geisha-Rose-Honey-Soap.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4225,variable,5194488407,Jamaa Cream Bar Soap - 800g,1,0,visible,Jamaa Cream Bar Soap - 800g,Jamaa Cream Bar Soap - 800g,,,taxable,,1,25,,0,0,,,,,0,,,,Household Cleaner,,,https://kapuafrica.com/wp-content/uploads/2022/02/Jamaa-Cream-bar-800g.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4226,variable,6409616718,Jamaa Cream Bar Soap - 1Kg,1,0,visible,Jamaa Cream Bar Soap - 1Kg,Jamaa Cream Bar Soap - 1Kg,,,taxable,,1,10,,0,0,,,,,0,,,,Household Cleaner,,,https://kapuafrica.com/wp-content/uploads/2022/02/Jamaa-Cream-Bar-1kg.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4227,variable,8664347240,Msafi White Bar Soap 1Kg,1,0,hidden,Msafi White Bar Soap 1Kg,Msafi White Bar Soap 1Kg,,,taxable,,0,0,,0,0,,,,,0,,,,Household Cleaner,,,https://kapuafrica.com/wp-content/uploads/2022/02/msafi-1kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4228,variable,7024750948,Rhino Kubwa Match box - 10 S,1,0,visible,Rhino Kubwa Match box - 10 S,Rhino Kubwa Match box - 10 S,,,taxable,,1,46,,0,0,,,,,0,,,,Household Supply,,,https://kapuafrica.com/wp-content/uploads/2022/02/Rhino-Kubwa-.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4229,variable,4686547968,Toss Lavendar Washing Powder - 20g,1,0,visible,Toss Lavendar Washing Powder - 20g,Toss Lavendar Washing Powder - 20g,,,taxable,,1,120,,0,0,,,,,0,,,,Household Cleaner,,,https://kapuafrica.com/wp-content/uploads/2022/02/Toss-Lavendar-20g.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4230,variable,3036143639,Zenta Cream Bar Soap - 800g,1,0,hidden,Zenta Cream Bar Soap - 800g,Zenta Cream Bar Soap - 800g,,,taxable,,0,0,,0,0,,,,,0,,,,Household Cleaner,,,https://kapuafrica.com/wp-content/uploads/2022/02/Zenta-Cream-Bar-800g.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4231,variable,7043801979,Zenta Cream Bar Soap - 1Kg,1,0,hidden,Zenta Cream Bar Soap - 1Kg,Zenta Cream Bar Soap - 1Kg,,,taxable,,0,0,,0,0,,,,,0,,,,Household Cleaner,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+4232,variation,,Mahitaji Maize Flour - 2Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,110,,,,,,,7326231735,,,,,,0,Pricing,Base,,1
+4233,variation,,Mama Maize Flour - 2Kg - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,114,,,,,,,8876920123,,,,,,0,Pricing,Base,,1
+4234,variation,,Cabbage - 1 Piece (1.3 to 1.4Kg) - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,25,,,,,,,8957069162,,,,,,0,Pricing,Base,,1
+4235,variation,,Garlic - 1 Piece (50gr) - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,15,,,,,,,3038069397,,,,,,0,Pricing,Base,,1
+4236,variation,,Ginger - 1 Piece (50gr) - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,15,,,,,,,6567293625,,,,,,0,Pricing,Base,,1
+4237,variation,,Green Capsicum - 5 Pieces (300 t0 350gr) - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,20,,,,,,,6253415922,,,,,,0,Pricing,Base,,1
+4238,variation,,Local Oranges - 3 Pieces (450 to 500gr) - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,20,,,,,,,4259419269,,,,,,0,Pricing,Base,,1
+4239,variation,,Supa Loaf Butter Toast - 400g - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,52,,,,,,,8486448310,,,,,,0,Pricing,Base,,1
+4240,variation,,Zucchini/Courgette - 4 Pieces (350 to 450gr) - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,20,,,,,,,5051086707,,,,,,0,Pricing,Base,,1
+4241,variation,,Ariel Downy Washing Powder - 40g - Base,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,10,,,,,,,7777862534,,,,,,0,Pricing,Base,,1
+4242,variation,,Geisha Rose & Honey Soap - 250G - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,,,,,,,,9984588410,,,,,,0,Pricing,Base,,1
+4243,variation,,Jamaa Cream Bar Soap - 800g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,123,,,,,,,5194488407,,,,,,0,Pricing,Base,,1
+4244,variation,,Jamaa Cream Bar Soap - 1Kg - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,149,,,,,,,6409616718,,,,,,0,Pricing,Base,,1
+4245,variation,,Msafi White Bar Soap 1Kg - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,143,,,,,,,8664347240,,,,,,0,Pricing,Base,,1
+4246,variation,,Rhino Kubwa Match box - 10 S - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,37,,,,,,,7024750948,,,,,,0,Pricing,Base,,1
+4247,variation,,Toss Lavendar Washing Powder - 20g - Base,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,6,,,,,,,4686547968,,,,,,0,Pricing,Base,,1
+4248,variation,,Zenta Cream Bar Soap - 800g - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,116,,,,,,,3036143639,,,,,,0,Pricing,Base,,1
+4249,variation,,Zenta Cream Bar Soap - 1Kg - Base,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,,,,,,,,7043801979,,,,,,0,Pricing,Base,,1
+4250,variation,,Mahitaji Maize Flour - 2Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,105,,,,,,,7326231735,,,,,,0,Pricing,Pamoja,,1
+4251,variation,,Mama Maize Flour - 2Kg - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,110,,,,,,,8876920123,,,,,,0,Pricing,Pamoja,,1
+4252,variation,,Cabbage - 1 Piece (1.3 to 1.4Kg) - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,20,,,,,,,8957069162,,,,,,0,Pricing,Pamoja,,1
+4253,variation,,Garlic - 1 Piece (50gr) - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,10,,,,,,,3038069397,,,,,,0,Pricing,Pamoja,,1
+4254,variation,,Ginger - 1 Piece (50gr) - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,10,,,,,,,6567293625,,,,,,0,Pricing,Pamoja,,1
+4255,variation,,Green Capsicum - 5 Pieces (300 t0 350gr) - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,18,,,,,,,6253415922,,,,,,0,Pricing,Pamoja,,1
+4256,variation,,Local Oranges - 3 Pieces (450 to 500gr) - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,18,,,,,,,4259419269,,,,,,0,Pricing,Pamoja,,1
+4257,variation,,Supa Loaf Butter Toast - 400g - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,50,,,,,,,8486448310,,,,,,0,Pricing,Pamoja,,1
+4258,variation,,Zucchini/Courgette - 4 Pieces (350 to 450gr) - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,18,,,,,,,5051086707,,,,,,0,Pricing,Pamoja,,1
+4259,variation,,Ariel Downy Washing Powder - 40g - Pamoja,1,0,visible,,,,,taxable,,0,,,0,0,,,,,0,,,9,,,,,,,7777862534,,,,,,0,Pricing,Pamoja,,1
+4260,variation,,Geisha Rose & Honey Soap - 250G - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,,,,,,,,9984588410,,,,,,0,Pricing,Pamoja,,1
+4261,variation,,Jamaa Cream Bar Soap - 800g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,120,,,,,,,5194488407,,,,,,0,Pricing,Pamoja,,1
+4262,variation,,Jamaa Cream Bar Soap - 1Kg - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,145,,,,,,,6409616718,,,,,,0,Pricing,Pamoja,,1
+4263,variation,,Msafi White Bar Soap 1Kg - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,140,,,,,,,8664347240,,,,,,0,Pricing,Pamoja,,1
+4264,variation,,Rhino Kubwa Match box - 10 S - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,35,,,,,,,7024750948,,,,,,0,Pricing,Pamoja,,1
+4265,variation,,Toss Lavendar Washing Powder - 20g - Pamoja,1,0,visible,,,,,taxable,,1,,,0,0,,,,,0,,,5,,,,,,,4686547968,,,,,,0,Pricing,Pamoja,,1
+4266,variation,,Zenta Cream Bar Soap - 800g - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,108,,,,,,,3036143639,,,,,,0,Pricing,Pamoja,,1
+4267,variation,,Zenta Cream Bar Soap - 1Kg - Pamoja,1,0,hidden,,,,,taxable,,0,,,0,0,,,,,0,,,,,,,,,,7043801979,,,,,,0,Pricing,Pamoja,,1

@@ -1,0 +1,45 @@
+.tip-is-max-amount {
+    color: #9B9BB4;
+    font-style: italic;
+    font-weight: 500;
+    size: 10px;
+}
+
+.dn {
+    display: none !important;
+}
+
+.df{
+    display: flex;
+}
+
+.tl-main-cart-content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+div .woocommerce-cart-form__cart-item.cart_item{
+    flex-direction: column;
+}
+
+div div .btn--move-top {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-weight: 800;
+    text-transform: initial;
+    color: #FFFFFF;
+    max-width: 120px;
+    max-height: 40px;
+    margin: 0 auto;
+}
+
+.no-more-products {display: none;}
+div .products > svg.loader-image.preloader{
+    position: fixed;
+    top: 20%;
+}

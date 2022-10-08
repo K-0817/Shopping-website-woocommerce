@@ -1,0 +1,146 @@
+*** Megaventory Extension Template Changelog ***
+2022-02-17 - version 2.2.28
+* Bug fixes.
+
+2022-02-17 - version 2.2.27
+* Synchronize product stock updates for all the products sharing the same SKU(duplicate SKUs in WooCommerce).
+* On product save, synchronize the product to Megaventory if product status is “publish” or “future”.
+* Bug fixes and performance improvements.
+* Compatible with WooCommerce 6.1.1.
+* Compatible with WordPress 5.9.0.
+
+2021-09-30 - version 2.2.26
+* Requires PHP: 7.0
+* Product field Purchase price Improvements.
+* Bug fixes and performance improvements.
+* Compatible with WooCommerce 5.7.0 
+* Compatible with WordPress 5.8.1
+
+2021-08-27 - version 2.2.25
+* Fix option handling bugs
+* Pass payment method into the Megaventory order tags
+
+2021-07-28 - version 2.2.24
+* Improvements to variant retrieval
+* Performance Optimizations
+
+2021-06-18 - version 2.2.23
+* Improvements to API handling
+
+2021-06-10 - version 2.2.22
+* Fully tested and compatible with WooCommerce 5.4.1 and WordPress 5.7.2
+
+2021-06-08 - version 2.2.21
+* Allow user to pick options about bulk stock export to Megaventory
+
+2021-06-08 - version 2.2.20
+* Improvements to security and connectivity.
+
+2021-06-01 - version 2.2.19
+* Improvements and more control over the bulk stock export procedure.
+
+2021-05-31 - version 2.2.18
+* Display appropriate messages at appropriate times based on the status of the integration.
+* Better compatibility with other extensions by using unique names for global variables.
+* New feature: User can define the default purchase price of the product using the WooCommerce admin UI.
+* Include name of shipping product into the description of the line item.
+* Bugfix for partial shipment switching the order status as "Pending Payment".
+
+2021-03-30 - version 2.2.17
+* Order Synchronization fixes.
+
+2021-03-18 - version 2.2.16
+* Minor admin UI redesign
+
+2021-03-15 - version 2.2.15
+* Optimization and minor fixes.
+
+2021-03-12 - version 2.2.14
+* Bug with API key retention.
+
+2021-03-05 - version 2.2.13
+* Update global variables to prevent conflicts with other plugins.
+
+2021-02-10 - version 2.2.12
+* Remove a reduntant feature.
+
+2021-02-10 - version 2.2.11
+* Bug with products updating that should not be updating.
+
+2021-02-08 - version 2.2.10
+* Bug with order synchronization from store front and order updates. Using another hook to account for syncing orders when status is changed from Pending Payment to Processing.
+
+2021-02-04 - version 2.2.9
+* Bug with order synchronization, specifically the address state/county was not properly synchronizing.
+
+2021-02-01 - version 2.2.8
+* Bug with product synchronization displaying an error message even if the product synchronized successfully
+* Bug with CSV product import
+* Bug with multisite plugin detection
+* Updates to product and order hooks for a more robust implementation
+
+2020-12-09 - version 2.2.7
+* Bug with duplicate Orders
+* Compatible with WooCommerce 4.8.0 
+* Compatible with WordPress 5.6.0
+
+2020-11-16 - version 2.2.6
+* Reschedule Cron Event for synchronization from Megaventory if has been removed.
+
+2020-10-27 - version 2.2.5
+* Fixed a bug on uninstall
+
+2020-10-12 - version 2.2.4
+* Prevent order synchronization with status draft, pending payment or cancelled
+* When a synchronized order is marked as cancelled in WooCommerce then it is marked as cancelled in Megaventory
+* Improvements
+
+2020-09-14 - version 2.2.3
+* Improvements
+
+2020-09-14 - version 2.2.2
+* Improved synchronization process
+* Compatible with WooCommerce 4.5.1
+
+2020-09-01 - version 2.2.1
+* Manually Order Synchronization.
+* Megaventory Order column in Orders list
+* New hook for Automatically Order Synchronization (woocommerce_after_order_object_save)
+* Automatically delete product in Megaventory when is deleted permanently in WooCommerce
+* Automatically delete Customer in Megaventory when is deleted in WooCommerce
+* Compatible with WooCommerce 4.4.0
+
+2020-08-05 - version 2.2.0
+* Fixed bug on tax-coupon hooks
+* Improved synchronization process
+* New functionality to Initial synchronization of quantity to/from Megaventory
+* On products list, Megaventory Quantity information also for variables
+* Fixed bug with product status if backorders are allowed
+* Compatible with WooCommerce 4.3.1
+* Various bugs fixed
+
+2020-07-01 - version 2.1.4
+* Button to pull updates from Megaventory manually
+* Keep Megaventory product barcode
+* Product image fix
+
+2020-06-18 - version 2.1.3
+* Customer mapping fixes
+* Undelete product and customer fixes 
+* Initial sync operation fixes
+
+2020-06-16 - version 2.1.2
+* Get WooCommerce product title as product short description
+* Prevent product updates from Megaventory to WooCommerce(except stock updates)
+* Compatible with WooCommerce 4.2.0
+
+2020-06-11 - version 2.1.1
+* Customer Get bug
+
+2020-06-09 - version 2.1.0
+* Category sync bug
+* Trim short description to 400 chars
+* Various bugs fixed
+
+2020-01-16 - version 2.0.0
+* Inital release

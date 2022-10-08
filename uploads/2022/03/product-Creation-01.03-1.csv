@@ -1,0 +1,43 @@
+﻿ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Description,Date sale price starts,Date sale price ends,Tax status,Tax class,In stock?,Low stock amount,Backorders allowed?,Sold individually?,Weight (kg),Length (cm),Width (cm),Height (cm),Allow customer reviews?,Purchase note,Sale price,Regular price,Categories,Tags,Shipping class,Images,Download limit,Download expiry days,Parent,Grouped products,Upsells,Cross-sells,External URL,Button text,Position,Attribute 1 name,Attribute 1 value(s),Attribute 1 visible,Attribute 1 global
+,variable,2774807324,Omo Fast Action - 500g,1,0,hidden,Omo Fast Action - 500g,Omo Fast Action - 500g,,,taxable,,1,,0,0,,,,,0,,,,Household Cleaners,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+,variable,7693894346,Omo Fast Action - 1Kg,1,0,hidden,Omo Fast Action - 1Kg,Omo Fast Action - 1Kg,,,taxable,,1,,0,0,,,,,0,,,,Household Cleaners,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+,variable,4055736431,Omo Extra Fresh - 500g,1,0,hidden,Omo Extra Fresh - 500g,Omo Extra Fresh - 500g,,,taxable,,1,,0,0,,,,,0,,,,Household Cleaners,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+,variable,1548440341,Omo Extra Fresh - 1Kg,1,0,hidden,Omo Extra Fresh - 1Kg,Omo Extra Fresh - 1Kg,,,taxable,,1,,0,0,,,,,0,,,,Household Cleaners,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+,variable,9769738829,Sunlight Lavender Powder (Tropical) - 500g,1,0,hidden,Sunlight Lavender Powder (Tropical) - 500g,Sunlight Lavender Powder (Tropical) - 500g,,,taxable,,1,,0,0,,,,,0,,,,Household Cleaners,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+,variable,5845697435,Sunlight Lavender Powder (Tropical) - 1Kg,1,0,hidden,Sunlight Lavender Powder (Tropical) - 1Kg,Sunlight Lavender Powder (Tropical) - 1Kg,,,taxable,,1,,0,0,,,,,0,,,,Household Cleaners,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+,variable,2121197749,Colgate Regular - 35g,1,0,hidden,Colgate Regular - 35g,Colgate Regular - 35g,,,taxable,,1,,0,0,,,,,0,,,,Hygiene,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+,variable,2231523533,Halisi Cooking Oil - 500Ml,1,0,hidden,Halisi Cooking Oil - 500Ml,Halisi Cooking Oil - 500Ml,,,taxable,,1,,0,0,,,,,0,,,,Oil,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+,variable,1665539624,Halisi Cooking Oil - 1L,1,0,hidden,Halisi Cooking Oil - 1L,Halisi Cooking Oil - 1L,,,taxable,,1,,0,0,,,,,0,,,,Oil,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+,variable,3868341445,Halisi Cooking Oil - 3L,1,0,hidden,Halisi Cooking Oil - 3L,Halisi Cooking Oil - 3L,,,taxable,,1,,0,0,,,,,0,,,,Oil,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+,variable,1651234757,Salit Cooking Oil - 500Ml,1,0,hidden,Salit Cooking Oil - 500Ml,Salit Cooking Oil - 500Ml,,,taxable,,1,,0,0,,,,,0,,,,Oil,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+,variable,6387318215,Salit Cooking Oil - 1L,1,0,hidden,Salit Cooking Oil - 1L,Salit Cooking Oil - 1L,,,taxable,,1,,0,0,,,,,0,,,,Oil,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+,variable,8205589808,Salit Cooking Oil - 3L,1,0,hidden,Salit Cooking Oil - 3L,Salit Cooking Oil - 3L,,,taxable,,1,,0,0,,,,,0,,,,Oil,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+,variable,9967536169,Salit Cooking Oil - 5L,1,0,hidden,Salit Cooking Oil - 5L,Salit Cooking Oil - 5L,,,taxable,,1,,0,0,,,,,0,,,,Oil,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+,variation,,Omo Fast Action - 500g - Base,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,2774807324,,,,,,0,Pricing,Base,,1
+,variation,,Omo Fast Action - 1Kg - Base,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,7693894346,,,,,,0,Pricing,Base,,1
+,variation,,Omo Extra Fresh - 500g - Base,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,4055736431,,,,,,0,Pricing,Base,,1
+,variation,,Omo Extra Fresh - 1Kg - Base,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,1548440341,,,,,,0,Pricing,Base,,1
+,variation,,Sunlight Lavender Powder (Tropical) - 500g - Base,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,9769738829,,,,,,0,Pricing,Base,,1
+,variation,,Sunlight Lavender Powder (Tropical) - 1Kg - Base,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,5845697435,,,,,,0,Pricing,Base,,1
+,variation,,Colgate Regular - 35g - Base,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,2121197749,,,,,,0,Pricing,Base,,1
+,variation,,Halisi Cooking Oil - 500Ml - Base,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,2231523533,,,,,,0,Pricing,Base,,1
+,variation,,Halisi Cooking Oil - 1L - Base,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,1665539624,,,,,,0,Pricing,Base,,1
+,variation,,Halisi Cooking Oil - 3L - Base,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,3868341445,,,,,,0,Pricing,Base,,1
+,variation,,Salit Cooking Oil - 500Ml - Base,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,1651234757,,,,,,0,Pricing,Base,,1
+,variation,,Salit Cooking Oil - 1L - Base,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,6387318215,,,,,,0,Pricing,Base,,1
+,variation,,Salit Cooking Oil - 3L - Base,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,8205589808,,,,,,0,Pricing,Base,,1
+,variation,,Salit Cooking Oil - 5L - Base,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,9967536169,,,,,,0,Pricing,Base,,1
+,variation,,Omo Fast Action - 500g - Pamoja,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,2774807324,,,,,,0,Pricing,Pamoja,,1
+,variation,,Omo Fast Action - 1Kg - Pamoja,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,7693894346,,,,,,0,Pricing,Pamoja,,1
+,variation,,Omo Extra Fresh - 500g - Pamoja,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,4055736431,,,,,,0,Pricing,Pamoja,,1
+,variation,,Omo Extra Fresh - 1Kg - Pamoja,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,1548440341,,,,,,0,Pricing,Pamoja,,1
+,variation,,Sunlight Lavender Powder (Tropical) - 500g - Pamoja,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,9769738829,,,,,,0,Pricing,Pamoja,,1
+,variation,,Sunlight Lavender Powder (Tropical) - 1Kg - Pamoja,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,5845697435,,,,,,0,Pricing,Pamoja,,1
+,variation,,Colgate Regular - 35g - Pamoja,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,2121197749,,,,,,0,Pricing,Pamoja,,1
+,variation,,Halisi Cooking Oil - 500Ml - Pamoja,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,2231523533,,,,,,0,Pricing,Pamoja,,1
+,variation,,Halisi Cooking Oil - 1L - Pamoja,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,1665539624,,,,,,0,Pricing,Pamoja,,1
+,variation,,Halisi Cooking Oil - 3L - Pamoja,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,3868341445,,,,,,0,Pricing,Pamoja,,1
+,variation,,Salit Cooking Oil - 500Ml - Pamoja,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,1651234757,,,,,,0,Pricing,Pamoja,,1
+,variation,,Salit Cooking Oil - 1L - Pamoja,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,6387318215,,,,,,0,Pricing,Pamoja,,1
+,variation,,Salit Cooking Oil - 3L - Pamoja,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,8205589808,,,,,,0,Pricing,Pamoja,,1
+,variation,,Salit Cooking Oil - 5L - Pamoja,1,0,hidden,,,,,taxable,,1,,0,0,,,,,0,,,,,,,,,,9967536169,,,,,,0,Pricing,Pamoja,,1

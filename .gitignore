@@ -1,0 +1,60 @@
+# Ignore WordPress core files*/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+sitemap.xml
+*.log
+/wp-*.php
+/index.php
+license.txt
+readme.html
+wp-admin/
+wp-includes/
+xmlrpc.php
+wp-content/cache/
+wp-content/backups/
+wp-config.php
+sitemap.xml.gz
+
+# Development environments
+.lando.yml
+.idea/
+
+# Databases
+*.sql
+*.sql.gz
+*.sqlite
+
+# Logs
+*.log
+
+# Build files
+node_modules/
+
+# Compressed files
+*.zip
+*.tar
+*.gz
+*.rar
+
+# OS files
+.DS_Store
+
+# Others
+.gitlab-ci.yml
+/wp-content/ai1wm-backups/
+/wp-content/backups-dup-lite/
+/wp-content/mu-plugins/
+/wp-content/upgrade/
+/wp-content/uploads/
+/wp-content/debug.log
+wp-content/object-cache.php
+wp-content/plugins/akismet
+wp-content/plugins/jetpack
+/db-config.php
+/wp-content/index.php
+/wp-content/themes/index.php
+/wp-content/themes/twentynineteen
+/wp-content/themes/twentytwenty
+/wp-content/plugins/index.php
+/wp-content/languages/index.php
+.htaccess

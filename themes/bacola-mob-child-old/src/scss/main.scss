@@ -1,0 +1,229 @@
+@import "icons";
+@import "my-account";
+@import "cart";
+
+body {
+  min-height: 100vh;
+  position: relative;
+}
+
+.site-footer {
+  bottom: 0;
+  z-index: 1;
+
+  margin-top: auto !important;
+
+  width: 100%;
+  .footer-mobile-nav {
+    display: none;
+  }
+
+  .footer-bottom {
+    border-radius: 0;
+    .container {
+      border: 0;
+    }
+  }
+}
+
+.header-search {
+  .search {
+    display: none;
+  }
+  .recent {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  .header-search {
+    .search {
+      display: flex;
+
+      #mobSearchValue {
+        width: 100%;
+        border-radius: 4px;
+        border: #878787 1px solid;
+        padding-left: 20px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        position: relative;
+        &:focus {
+          outline: none !important;
+          border:1px solid rgb(255, 119, 0, 0.5);
+          //box-shadow: 0 0 10px #FF7700;
+        }
+      }
+
+    .search-icon {
+        position: absolute;
+        height: 20px;
+        width: 20px;
+        z-index: 1;
+
+        top: 30px;
+        right: 30px;
+        content: '';
+        //background-image: url('../../assets/img/search-icon.png');
+        background-image: get-icon-search(#000);
+        background-size: cover;
+      }
+      .close-icon {
+        position: absolute;
+        height: 12px;
+        width: 12px;
+        z-index: 1;
+
+        top: 34px;
+        right: 60px;
+        content: '';
+        background-image: get-icon-close(#878787);
+        background-size: cover;
+      }
+    }
+    .recent {
+      display: flex;
+      flex-direction: column;
+      color: #878787;
+      margin-top: 24px;
+
+      span {
+        line-height: 20px;
+        margin-top: 0;
+        margin-bottom: 9px;
+      }
+
+      ul {
+        padding-left: 0;
+      }
+
+      .row {
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 21px;
+
+        img {
+          border: #878787 1px solid;
+          border-radius: 2px;
+          width: 41px;
+          height: 41px;
+          margin-right: 20px;
+        }
+        h6 {
+          color: #0b0b0b;
+          font-weight: bold;
+          font-size: 12px;
+          line-height: 20px;
+          margin-bottom: 0;
+        }
+        p {
+          font-size: 11px;
+          line-height: 20px;
+        }
+        a {
+          display: flex;
+          color: #878787;
+        }
+      }
+    }
+    .hide {
+      display: none;
+    }
+    .show {
+      display: flex;
+    }
+  }
+
+  .site-header {
+    .header-mobile-nav {
+      display: none !important;
+      background: #dd0000 !important;
+    }
+
+    .klbth-icon-home {
+        color: #FF7700;
+        font-weight: 500;
+       &:before {
+         content: '';
+         width: 17px;
+         height: 19px;
+         background-image: get-icon-home(#FF7700);
+         //background-size: 11px 7px;
+       }
+    }
+  }
+
+  .site-footer {
+    position: sticky;
+    z-index: 1001;
+    bottom: 0;
+    border-radius: 0;
+
+    .footer-mobile-nav {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      background: #000000;
+
+      ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 0 40px;
+        margin: 8px 0;
+
+        list-style: none;
+
+        li {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+
+          a {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: #ffffff;
+            font-size: 8px;
+          }
+        }
+      }
+
+      .klbth-icon-home {
+        &:before {
+          content: '';
+          width: 17px;
+          height: 19px;
+          background-image: get-icon-home(#FF7700);
+          //background-size: 11px 7px;
+        }
+      }
+      .klbth-icon-search{
+        &:before {
+          content: '';
+          width: 17px;
+          height: 16px;
+          background-image: get-icon-search(#878787);
+          //background-size: 11px 7px;
+        }
+      }
+      .klbth-icon-user {
+        width: 16px;
+      }
+      .home_link {
+        color: #FF7700;
+        font-weight: 800;
+      }
+    }
+    .footer-bottom {
+      .container {
+        padding: 10px;
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+﻿ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Description,Date sale price starts,Date sale price ends,Tax status,Tax class,In stock?,Low stock amount,Backorders allowed?,Sold individually?,Weight (kg),Length (cm),Width (cm),Height (cm),Allow customer reviews?,Purchase note,Sale price,Regular price,Categories,Tags,Shipping class,Images,Download limit,Download expiry days,Parent,Grouped products,Upsells,Cross-sells,External URL,Button text,Position,Attribute 1 name,Attribute 1 value(s),Attribute 1 visible,Attribute 1 global
+6403,variable,8930412410,Jogoo Maize Meal - 1kg,1,0,visible,Jogoo Maize Meal - 1kg,Jogoo Maize Meal - 1kg,,,taxable,,0,,0,0,,,,,0,,,,Flours,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6404,variable,3722302986,Exe All Purpose Flour - 2kg,1,0,visible,Exe All Purpose Flour - 2kg,Exe All Purpose Flour - 2kg,,,taxable,,0,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/02/Exe-all-purpose-2kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6405,variable,2319734048,Exe Chapati - 2kg,1,0,visible,Exe Chapati - 2kg,Exe Chapati - 2kg,,,taxable,,0,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/02/exe-chapati-2kg.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6406,variable,5183853415,Exe Mandazi - 2kg,1,0,visible,Exe Mandazi - 2kg,Exe Mandazi - 2kg,,,taxable,,0,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/02/Exe-mandazi-2kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6407,variable,8716032110,Exe Self Raising Flour - 2Kg,1,0,visible,Exe Self Raising Flour - 2Kg,Exe Self Raising Flour - 2Kg,,,taxable,,0,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/02/Exe-all-purpose-2kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6408,variable,7489470096,Famila Ujimix - 1kg,1,0,visible,Famila Ujimix - 1kg,Famila Ujimix - 1kg,,,taxable,,0,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/02/Familia-uji-mix-1kg.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6409,variable,1294523241,Famila Ujimix - 500g,1,0,visible,Famila Ujimix - 500g,Famila Ujimix - 500g,,,taxable,,0,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/02/FamilaUjimix-500g.png,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6410,variable,4727233274,Famila Baby Porridge - 1kg,1,0,visible,Famila Baby Porridge - 1kg,Famila Baby Porridge - 1kg,,,taxable,,0,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/02/Familia-baby-porridge-1kg.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6419,variable,9762639864,Famila Baby Porridge - 500g,1,0,visible,Famila Baby Porridge - 500g,Famila Baby Porridge - 500g,,,taxable,,0,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/02/Familia-baby-porridge-1kg.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6420,variable,2303452914,Famila Banana Flavoured Porridge - 1kg,1,0,visible,Famila Banana Flavoured Porridge - 1kg,Famila Banana Flavoured Porridge - 1kg,,,taxable,,0,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/02/Famila-Banana-porridge.png,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6421,variable,4472933861,Famila Banana Flavoured Porridge - 500g,1,0,visible,Famila Banana Flavoured Porridge - 500g,Famila Banana Flavoured Porridge - 500g,,,taxable,,0,,0,0,,,,,0,,,,Flours,,,https://kapuafrica.com/wp-content/uploads/2022/02/Famila-Banana-porridge.png,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6422,variable,7685130161,Amana Ndengu - 1kg,1,0,visible,Amana Ndengu - 1kg,Amana Ndengu - 1kg,,,taxable,,0,,0,0,,,,,0,,,,Pulses &amp; Cereals,,,https://kapuafrica.com/wp-content/uploads/2022/02/Amana-Ndengu-250g.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6423,variable,8105755714,Amana Ndengu - 500g,1,0,visible,Amana Ndengu - 500g,Amana Ndengu - 500g,,,taxable,,0,,0,0,,,,,0,,,,Pulses &amp; Cereals,,,https://kapuafrica.com/wp-content/uploads/2022/02/Amana-Ndengu-250g.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6424,variable,4140276178,Amana Ndengu - 250g,1,0,visible,Amana Ndengu - 250g,Amana Ndengu - 250g,,,taxable,,0,,0,0,,,,,0,,,,Pulses &amp; Cereals,,,https://kapuafrica.com/wp-content/uploads/2022/02/Amana-Ndengu-250g.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6425,variable,4650300246,Amana Njahi - 1kg,1,0,visible,Amana Njahi - 1kg,Amana Njahi - 1kg,,,taxable,,0,,0,0,,,,,0,,,,Pulses &amp; Cereals,,,https://kapuafrica.com/wp-content/uploads/2022/02/Amana-Njahi-1kg.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6426,variable,8459027618,Amana Rose Coco - 1kg,1,0,visible,Amana Rose Coco - 1kg,Amana Rose Coco - 1kg,,,taxable,,0,,0,0,,,,,0,,,,Pulses &amp; Cereals,,,https://kapuafrica.com/wp-content/uploads/2022/02/Amana-Rose-Coco-beans-1kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6427,variable,7250505039,Amana Yellow Beans - 1kg,1,0,visible,Amana Yellow Beans - 1kg,Amana Yellow Beans - 1kg,,,taxable,,0,,0,0,,,,,0,,,,Pulses &amp; Cereals,,,https://kapuafrica.com/wp-content/uploads/2022/02/Amana-Yellow-beans-1kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6428,variable,2710950792,Amana Nyayo Beans - 1kg,1,0,visible,Amana Nyayo Beans - 1kg,Amana Nyayo Beans - 1kg,,,taxable,,0,,0,0,,,,,0,,,,Pulses &amp; Cereals,,,https://kapuafrica.com/wp-content/uploads/2022/02/Amana-Nyayo-1kg.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6429,variable,8037602927,Amana Pishori - 2kg,1,0,visible,Amana Pishori - 2kg,Amana Pishori - 2kg,,,taxable,,0,,0,0,,,,,0,,,,Pulses &amp; Cereals,,,https://kapuafrica.com/wp-content/uploads/2022/02/Amana-Pishori-2kg.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6430,variable,8005243954,Amana Pishori - 1kg,1,0,visible,Amana Pishori - 1kg,Amana Pishori - 1kg,,,taxable,,0,,0,0,,,,,0,,,,Pulses &amp; Cereals,,,https://kapuafrica.com/wp-content/uploads/2022/02/Amana-Pishori-1kg.jpeg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6431,variable,8123307341,Amana Basmati - 2kg,1,0,visible,Amana Basmati - 2kg,Amana Basmati - 2kg,,,taxable,,0,,0,0,,,,,0,,,,Rice,,,https://kapuafrica.com/wp-content/uploads/2022/02/Amana-basmati-2kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6432,variable,1479758021,Amana Basmati - 1kg,1,0,visible,Amana Basmati - 1kg,Amana Basmati - 1kg,,,taxable,,0,,0,0,,,,,0,,,,Rice,,,https://kapuafrica.com/wp-content/uploads/2022/02/Amana-Basmati-Rice-1kg.jpg,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+6433,variation,,Jogoo Maize Meal - 1kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,58,,,,,,,8930412410,,,,,,1,Pricing,Base,,1
+6434,variation,,Exe All Purpose Flour - 2kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,143,,,,,,,3722302986,,,,,,1,Pricing,Base,,1
+6435,variation,,Exe Chapati - 2kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,146,,,,,,,2319734048,,,,,,1,Pricing,Base,,1
+6436,variation,,Exe Mandazi - 2kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,150,,,,,,,5183853415,,,,,,1,Pricing,Base,,1
+6437,variation,,Exe Self Raising Flour - 2Kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,150,,,,,,,8716032110,,,,,,1,Pricing,Base,,1
+6438,variation,,Famila Ujimix - 1kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,110,,,,,,,7489470096,,,,,,1,Pricing,Base,,1
+6439,variation,,Famila Ujimix - 500g - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,55,,,,,,,1294523241,,,,,,1,Pricing,Base,,1
+6440,variation,,Famila Baby Porridge - 1kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,130,,,,,,,4727233274,,,,,,1,Pricing,Base,,1
+6441,variation,,Famila Baby Porridge - 500g - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,65,,,,,,,9762639864,,,,,,1,Pricing,Base,,1
+6442,variation,,Famila Banana Flavoured Porridge - 1kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,120,,,,,,,2303452914,,,,,,1,Pricing,Base,,1
+6443,variation,,Famila Banana Flavoured Porridge - 500g - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,62,,,,,,,4472933861,,,,,,1,Pricing,Base,,1
+6444,variation,,Amana Ndengu - 1kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,155,,,,,,,7685130161,,,,,,1,Pricing,Base,,1
+6445,variation,,Amana Ndengu - 500g - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,77,,,,,,,8105755714,,,,,,1,Pricing,Base,,1
+6446,variation,,Amana Ndengu - 250g - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,40,,,,,,,4140276178,,,,,,1,Pricing,Base,,1
+6447,variation,,Amana Njahi - 1kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,179,,,,,,,4650300246,,,,,,1,Pricing,Base,,1
+6448,variation,,Amana Rose Coco - 1kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,170,,,,,,,8459027618,,,,,,1,Pricing,Base,,1
+6449,variation,,Amana Yellow Beans - 1kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,175,,,,,,,7250505039,,,,,,1,Pricing,Base,,1
+6450,variation,,Amana Nyayo Beans - 1kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,150,,,,,,,2710950792,,,,,,1,Pricing,Base,,1
+6451,variation,,Amana Pishori - 2kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,399,,,,,,,8037602927,,,,,,1,Pricing,Base,,1
+6452,variation,,Amana Pishori - 1kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,200,,,,,,,8005243954,,,,,,1,Pricing,Base,,1
+6453,variation,,Amana Basmati - 2kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,410,,,,,,,8123307341,,,,,,1,Pricing,Base,,1
+6454,variation,,Amana Basmati - 1kg - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,210,,,,,,,1479758021,,,,,,1,Pricing,Base,,1
+6455,variation,,Jogoo Maize Meal - 1kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,57,,,,,,,8930412410,,,,,,2,Pricing,Pamoja,,1
+6456,variation,,Exe All Purpose Flour - 2kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,142,,,,,,,3722302986,,,,,,2,Pricing,Pamoja,,1
+6457,variation,,Exe Chapati - 2kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,145,,,,,,,2319734048,,,,,,2,Pricing,Pamoja,,1
+6458,variation,,Exe Mandazi - 2kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,148,,,,,,,5183853415,,,,,,2,Pricing,Pamoja,,1
+6459,variation,,Exe Self Raising Flour - 2Kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,148,,,,,,,8716032110,,,,,,2,Pricing,Pamoja,,1
+6460,variation,,Famila Ujimix - 1kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,108,,,,,,,7489470096,,,,,,2,Pricing,Pamoja,,1
+6461,variation,,Famila Ujimix - 500g - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,54,,,,,,,1294523241,,,,,,2,Pricing,Pamoja,,1
+6462,variation,,Famila Baby Porridge - 1kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,126,,,,,,,4727233274,,,,,,2,Pricing,Pamoja,,1
+6463,variation,,Famila Baby Porridge - 500g - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,64,,,,,,,9762639864,,,,,,2,Pricing,Pamoja,,1
+6464,variation,,Famila Banana Flavoured Porridge - 1kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,119,,,,,,,2303452914,,,,,,2,Pricing,Pamoja,,1
+6465,variation,,Famila Banana Flavoured Porridge - 500g - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,60,,,,,,,4472933861,,,,,,2,Pricing,Pamoja,,1
+6466,variation,,Amana Ndengu - 1kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,150,,,,,,,7685130161,,,,,,2,Pricing,Pamoja,,1
+6467,variation,,Amana Ndengu - 500g - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,75,,,,,,,8105755714,,,,,,2,Pricing,Pamoja,,1
+6468,variation,,Amana Ndengu - 250g - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,39,,,,,,,4140276178,,,,,,2,Pricing,Pamoja,,1
+6469,variation,,Amana Njahi - 1kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,175,,,,,,,4650300246,,,,,,2,Pricing,Pamoja,,1
+6470,variation,,Amana Rose Coco - 1kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,165,,,,,,,8459027618,,,,,,2,Pricing,Pamoja,,1
+6471,variation,,Amana Yellow Beans - 1kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,170,,,,,,,7250505039,,,,,,2,Pricing,Pamoja,,1
+6472,variation,,Amana Nyayo Beans - 1kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,145,,,,,,,2710950792,,,,,,2,Pricing,Pamoja,,1
+6473,variation,,Amana Pishori - 2kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,390,,,,,,,8037602927,,,,,,2,Pricing,Pamoja,,1
+6474,variation,,Amana Pishori - 1kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,197,,,,,,,8005243954,,,,,,2,Pricing,Pamoja,,1
+6475,variation,,Amana Basmati - 2kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,405,,,,,,,8123307341,,,,,,2,Pricing,Pamoja,,1
+6476,variation,,Amana Basmati - 1kg - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,205,,,,,,,1479758021,,,,,,2,Pricing,Pamoja,,1
+8177,variable,6387318215,Salit Cooking Oil - 1L,1,0,visible,Salit Cooking Oil - 1L,Salit Cooking Oil - 1L,,,taxable,,0,,0,0,,,,,0,,,,Oil,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+8178,variable,8205589808,Salit Cooking Oil - 3L,1,0,visible,Salit Cooking Oil - 3L,Salit Cooking Oil - 3L,,,taxable,,0,,0,0,,,,,0,,,,Oil,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+8179,variable,9967536169,Salit Cooking Oil - 5L,1,0,visible,Salit Cooking Oil - 5L,Salit Cooking Oil - 5L,,,taxable,,0,,0,0,,,,,0,,,,Oil,,,,,,,,,,,,0,Pricing,"Base, Pamoja",1,1
+8205,variation,,Salit Cooking Oil - 1L - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,290,,,,,,,6387318215,,,,,,1,Pricing,Base,,1
+8206,variation,,Salit Cooking Oil - 3L - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,840,,,,,,,8205589808,,,,,,1,Pricing,Base,,1
+8207,variation,,Salit Cooking Oil - 5L - Base,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,1350,,,,,,,9967536169,,,,,,1,Pricing,Base,,1
+8229,variation,,Salit Cooking Oil - 1L - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,285,,,,,,,6387318215,,,,,,2,Pricing,Pamoja,,1
+8231,variation,,Salit Cooking Oil - 3L - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,820,,,,,,,8205589808,,,,,,2,Pricing,Pamoja,,1
+8233,variation,,Salit Cooking Oil - 5L - Pamoja,1,0,visible,,,,,taxable,,0,,0,0,,,,,0,,,1300,,,,,,,9967536169,,,,,,2,Pricing,Pamoja,,1
